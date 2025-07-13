@@ -87,5 +87,5 @@ Limit frame processing using max_frames if working with long videos
 
 📸 Sample Output
 Output image screenshot  with bounding boxes and tracked object IDs overlayed frame.
-![image](https://github.com/user-attachments/assets/c0dfa5bf-efc9-4ae0-bf17-47a021991c84)
+![image](https://github.com/Aniketps4/Football_analysis-/blob/main/Screenshot%202025-07-07%20153833.png)
 
